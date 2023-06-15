@@ -1,2 +1,2 @@
-# exploratory-data-
+# exploratory-data
 exploratory data analysis
